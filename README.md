@@ -1,6 +1,5 @@
 [![appveyor](https://ci.appveyor.com/api/projects/status/github/DTOcean/dtocean-app?branch=1.0.x&svg=true)](https://ci.appveyor.com/project/DTOcean/dtocean-app)
 [![codecov](https://codecov.io/gh/DTOcean/dtocean-app/branch/1.0.x/graph/badge.svg)](https://codecov.io/gh/DTOcean/dtocean-app)
-[**Lintly Score**](https://lintly.com/gh/DTOcean/dtocean-app/)
 [![release](https://img.shields.io/github/release/DTOcean/dtocean-app.svg)](https://github.com/DTOcean/dtocean-app/releases/latest)
 
 # DTOcean Graphical Application
